@@ -1,0 +1,9 @@
+Package: hello-world
+Version: 0.1-1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: xxx
+Description: hello-world example
