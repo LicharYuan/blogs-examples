@@ -57,11 +57,4 @@ set(CPACK_PACKAGE_NAME "${namespace}-${PROJECT_NAME}"
 # where to find our CMake modules
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
-
 message(STATUS "Components to pack: ${CPACK_COMPONENTS_ALL}")
-
-
-
-
-
-
